@@ -1,0 +1,85 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNqumolPBHQTgMDLw69W8zz",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/R0-chaser/new/blob/master/R0-chaser/new\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "YnJc-lpSw4W6",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "rhwJEyIww5iL",
+        "colab_type": "text"
+      },
+      "source": [
+        "#1.AI 언어\n",
+        "[기사] (https://biz.chosun.com/site/data/html_dir/2019/02/08/2019020801834.html)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "ZbnwoIqZxHl5",
+        "colab_type": "text"
+      },
+      "source": [
+        "#2.AI 음성\n",
+        "[기사] (http://www.engjournal.co.kr/news/articleView.html?idxno=683)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "weABt_cDxeUQ",
+        "colab_type": "text"
+      },
+      "source": [
+        "#3.AI 이미지\n",
+        "[기사] (https://biz.chosun.com/site/data/html_dir/2017/03/26/2017032600545.html)\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "l2Pk5lZVxeau",
+        "colab_type": "text"
+      },
+      "source": [
+        "#4.AI 자율주행\n",
+        "[기사] (https://www.e4ds.com/sub_view.asp?ch=31&t=1&idx=10573)"
+      ]
+    }
+  ]
+}
